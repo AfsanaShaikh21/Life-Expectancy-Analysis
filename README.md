@@ -135,7 +135,3 @@ The trained model successfully predicts life expectancy values when new input da
 ## 📄 License
 
 This project is created for educational and internship purposes only.
-
----
-
-⭐ *This project was developed as part of a Data Science Internship.*
